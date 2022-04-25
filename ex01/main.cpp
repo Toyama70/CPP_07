@@ -3,16 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   main.cpp                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ybestrio <ybestrio@student.42.fr>          +#+  +:+       +#+        */
+/*   By: yasinbestrioui <yasinbestrioui@student.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/25 11:25:19 by ybestrio          #+#    #+#             */
-/*   Updated: 2022/04/25 14:41:01 by ybestrio         ###   ########.fr       */
+/*   Updated: 2022/04/25 17:59:11 by yasinbestri      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
 #include "iter.hpp"
-
+/*
 void ft_display(char const &c)
 {
 	std::cout << c << std::endl;
@@ -34,8 +34,8 @@ int main()
 	iter(buf, 6, ft_display);
 
 	std::cout << buf << std::endl;
-}
-/*
+}*/
+
 class Awesome
 {
 	public:
@@ -56,6 +56,6 @@ int main() {
 	iter(tab2, 5, print);
 	return 0;
 }
-*/
+
 
 
